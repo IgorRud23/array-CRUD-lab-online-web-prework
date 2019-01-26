@@ -12,7 +12,8 @@ exepmle << "whoof"
 end
 
 def add_element_to_start_of_array(array, element)
-
+exemple = ["dog", "road", "car", "whoof"]
+exemple.unshift("friend")
 end
 
 def remove_element_from_end_of_array(array)
